@@ -1,0 +1,9 @@
+Binary Search
+
+-Optimized way to search
+-Used for sorted arrays
+
+Time complexity 
+O(logN)
+
+ 

@@ -1,0 +1,5 @@
+Time Complexity - how time grows when input grows
+
+Best Case: O(1) constant (The key present in first index itself)
+
+Worst Case: O(n) n-size of input(key doesn't present)
