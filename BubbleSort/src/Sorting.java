@@ -6,7 +6,7 @@
 public class Sorting {
 
 	public static void main(String[] args) {
-		int[] arr=new int [] {5,3,9,7,1};
+		int[] arr=new int [] {5,-3,9,7,1};
 		
 		for(int i=0;i<arr.length;i++) {
 			for(int j=0;j<arr.length-1-i;j++) {
